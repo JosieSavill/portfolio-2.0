@@ -305,7 +305,7 @@ nav{
     background-color: rgb(54, 131, 155);
     border: thin;
     padding: 5px;
-    height: 100px;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
