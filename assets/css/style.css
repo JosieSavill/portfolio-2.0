@@ -357,19 +357,19 @@ nav{
 }
 
 .box-b{
-    background-image: url('/assets/images/portfolio-desktop-view.png');
+    background-image: url('/assets/images/dream-desktop.png');
     max-height: 100%;
     max-width: auto;
     
 }
 .box-c{
-    background-image: url('/assets/images/portfolio-desktop-view.png');
+    background-image: url('/assets/images/dreamMobile.png');
     max-height: 100%;
     max-width: auto;
 }
 
 .box-d{
-    background-image: url('/assets/images/portfolio-desktop-view.png');
+    background-image: url('/assets/images/eventsdesktop.png');
     max-height: 100%;
     max-width: auto;
 }
