@@ -357,15 +357,21 @@ nav{
 }
 
 .box-b{
-    background-color: rgb(58, 147, 58);
+    background-image: url('/assets/images/portfolio-desktop-view.png');
+    max-height: 100%;
+    max-width: auto;
+    
 }
-
 .box-c{
-    background-color: rgb(213, 153, 63);
+    background-image: url('/assets/images/portfolio-desktop-view.png');
+    max-height: 100%;
+    max-width: auto;
 }
 
 .box-d{
-    background-color: rgb(210, 66, 66);
+    background-image: url('/assets/images/portfolio-desktop-view.png');
+    max-height: 100%;
+    max-width: auto;
 }
 
 footer{
