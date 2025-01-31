@@ -6,7 +6,7 @@
 }
 body{
 
-    background-image: url("assets/images/bgportrait.png");
+    background-image: url("docs/assets/images/bgportrait.png");
     padding: 30px;
     
 }
@@ -213,7 +213,7 @@ nav{
 }
 
 .car1 {
-    background-image: url('/assets/images/dream3.png');
+    background-image: url('docs/assets/images/dream3.png');
     
 }
 .car2 {
@@ -222,7 +222,7 @@ nav{
 }
 
 .car3 {
-    background-image: url('/assets/images/finedining_v2.jpg');
+    background-image: url('docs/assets/images/finedining_v2.jpg');
     
 }
 
@@ -355,7 +355,7 @@ nav{
 .box-a{
     /* background-color: rgb(54, 131, 155); */
     
-    background-image: url('assets/images/portfolio-desktop-view.png');
+    background-image: url('docs/assets/images/portfolio-desktop-view.png');
     max-height: 400px;
     max-width: 100;
     width: 100%;
@@ -366,7 +366,7 @@ nav{
 }
 
 .box-b{
-    background-image: url('assets/images/dream-desktop.png');
+    background-image: url('docs/assets/images/dream-desktop.png');
     width: 100%;
     height: 200px;
     background-size: cover; /* or 'contain' */
@@ -374,7 +374,7 @@ nav{
     
 }
 .box-c{
-    background-image: url('assets/images/restaurant.png');
+    background-image: url('docs/assets/images/restaurant.png');
     width: 100%;
     height: 200px;
     background-size: cover; /* or 'contain' */
@@ -382,7 +382,7 @@ nav{
 }
 
 .box-d{
-    background-image: url('assets/images/events.png');
+    background-image: url('docs/assets/images/events.png');
     width: 100%;
     height: 200px;
     background-size: cover; /* or 'contain' */
