@@ -434,4 +434,8 @@ footer{
     text-align: center;
     
 }
-
+#thumbnailModal{
+    img{
+        width: 100%;
+    }
+}
