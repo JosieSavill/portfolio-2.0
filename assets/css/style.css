@@ -28,12 +28,19 @@ main {
 header{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     width: 100%;
     
     h2{
         margin-bottom: 0px;
     }
     
+}
+
+.left-header{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
 }
 
 .first{
@@ -43,7 +50,25 @@ header{
 }
 
 .last{
-    font-weight: 30;
+    font-weight: 80;
+    display: flex;
+    align-items: center;
+}
+
+.right-header{
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+}
+
+.city{
+    font-weight: 80;
+    display: flex;
+    align-items: center;
+}
+
+.state{
+    font-weight: 350;
     display: flex;
     align-items: center;
 }
