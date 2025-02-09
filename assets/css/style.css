@@ -56,12 +56,18 @@ header{
     font-weight: 350;
     display: flex;
     align-items: center;
+    @media only screen and (max-width: 600px){
+        font-weight: 450;
+    }
 }
 
 .last{
     font-weight: 80;
     display: flex;
     align-items: center;
+    @media only screen and (max-width: 600px){
+        font-weight: 180;
+    }
 }
 
 .right-header{
@@ -75,12 +81,18 @@ header{
     font-weight: 80;
     display: flex;
     align-items: center;
+    @media only screen and (max-width: 600px){
+        font-weight: 180;
+    }
 }
 
 .state{
     font-weight: 350;
     display: flex;
     align-items: center;
+    @media only screen and (max-width: 600px){
+        font-weight: 450;
+    }
 }
 
 .bird {
